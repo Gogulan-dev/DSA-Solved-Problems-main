@@ -50,7 +50,7 @@ Each folder contains **solutions** categorized by topics such as **Arrays, Linke
 
 | Platform  | Easy | Medium | Hard | Total Solved |
 |-----------|------|--------|------|--------------|
-| **LeetCode** | 52 | 101 | 14 | 167 |
+| **LeetCode** | 55 | 106 | 15 | 176 |
  
 🔥 **Max Streak:** `54 Days`  
 🏆 **Latest Badge:** `50 Days Badge 2025`  
